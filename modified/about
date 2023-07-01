@@ -1,0 +1,4 @@
+file.open, write, read etc not working
+
+Changed to io.open,. io.read etc
+
