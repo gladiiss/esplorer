@@ -17,10 +17,10 @@ dist/
 *.log
 
 # Package files
-*.jar
+#*.jar
 
 # Maven
-target/
+#target/
 dist/
 
 # JetBrains IDE
